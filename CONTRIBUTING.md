@@ -1,5 +1,7 @@
 _Customized from the awesome [@avelino/awesome-go's CONTRIBUTING.md](https://github.com/avelino/awesome-go/blob/master/CONTRIBUTING.md)_
 
+**awesome-mahjong is a specially curated list for high-quality, actively maintained Mahjong games, software, support libraries, and resources that are free and open-source.**
+
 This resource was made by the Mahjong community and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/joshk0/awesome-mahjong/graphs/contributors).
 
 Join us on the [Mahjong Discord](https://discordapp.com/invite/n6aYrjx) in #dev.
@@ -8,9 +10,7 @@ Join us on the [Mahjong Discord](https://discordapp.com/invite/n6aYrjx) in #dev.
 
 > Please be aware that we want to accept your contribution, but we have **some rules to keep the minimum quality** of the projects listed here. All reviews are **not personal feedback**, even if you are a _developer reviewing your contribution_. **Sorry if we can't meet your expectations, we do our best**.
 
-- **To add, remove, or change things on the list:** Submit a pull request
-
-*awesome-mahjong is a specially curated list for high-quality, actively maintained Mahjong games, software, support libraries, and resources that are free and open-source.*
+- **To add, remove, or change things on the list:** Submit a pull request.
 
 - List items should be sorted *alphabetically*;
 - Each item should be limited to one link;
